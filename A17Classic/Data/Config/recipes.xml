@@ -1336,12 +1336,12 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="MarinatedRawMeat" count="3"/>
 </recipe>
 
-<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="learnable">
+<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable">
 	<ingredient name="foodCanBeef" count="4"/>
 	<ingredient name="foodCornMeal" count="8"/>
 </recipe>
 
-<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="learnable">
+<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable">
 	<ingredient name="foodCanLamb" count="4"/>
 	<ingredient name="foodCornMeal" count="8"/>
 </recipe>
