@@ -15370,6 +15370,7 @@ NOT the TextureNumber.
 	<property name="Shape" value="New"/>
 	<property name="Path" value="solid"/>
 	<property name="Model" value="chair"/>
+	<property name="FuelValue" value="600"/>
 	<property name="StabilitySupport" value="false"/>
 	<property name="UseGlobalUV" value="Local"/>
 	<property name="AllowAllRotations" value="true"/>
@@ -15389,6 +15390,7 @@ NOT the TextureNumber.
 	<property name="MaxDamage" value="50"/>
 	<property name="Shape" value="Ext3dModel"/> <property name="Texture" value="293"/>
 	<property name="Mesh" value="models"/>
+	<property name="FuelValue" value="600"/>
 	<property name="Path" value="solid"/>
 	<property name="Model" value="Furniture/chair01" param1="main_mesh"/>
 	<property name="StabilitySupport" value="false"/>

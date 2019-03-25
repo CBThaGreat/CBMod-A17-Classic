@@ -1605,8 +1605,8 @@
 		<effect_group>
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags="foodBaconAndEggs,foodBoiledMeat,foodGrilledMeat,foodBakedPotato,foodCornBread,foodCornOnTheCob,drinkJarRedTea,drinkJarCoffee,drinkJarGoldenRodTea,Hamburger,GrilledCorn"/>
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="2,5" value="1" tags="foodSteakAndPotato,foodBlueberryPie,foodMeatStew,foodVegetableStew,Steak,ShortStackRibs,Tenderizer,GroundRawMeat,MarinatedRawMeat,Meatballs"/>
-			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,5" value="1" tags="foodShamChowder,foodHoboStew,foodFishTacos,SpaghettiAndMeatballs"/>
-			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="4,5" value="1" tags="drinkYuccaJuiceSmoothie,foodChiliDog,UltimateRibs,WhizWit"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,5" value="1" tags="foodShamChowder,foodHoboStew,foodFishTacos,SpaghettiAndMeatballs,BeefStroganoff"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="4,5" value="1" tags="drinkYuccaJuiceSmoothie,foodChiliDog,UltimateRibs,WhizWit,SloppyJoe"/>
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="5,5" value="1" tags="drinkJarGrandpasMoonshine,drinkJarGrandpasAwesomeSauce,drinkJarGrandpasLearningElixir,CodeRed"/>
 			<effect_description level="1" desc_key="perkMasterChefRank1Desc"/>
 			<effect_description level="2" desc_key="perkMasterChefRank2Desc"/>

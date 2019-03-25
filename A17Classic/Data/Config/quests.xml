@@ -2975,7 +2975,7 @@
 		<property name="offer_key" value="challenge_HellHathNoFury_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="AnimalKill" id="Barry" value="1" />
+		<objective type="AnimalKill" id="Barry" value="15" />
 
 		<requirement type="Holding" id="BarrysWrath" />
 
@@ -2995,7 +2995,7 @@
 		<property name="offer_key" value="challenge_BadReception_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="CBThaGreat" value="1" />
+		<objective type="ZombieKill" id="CBThaGreat" value="15" />
 
 		<requirement type="Holding" id="ConferenceCall" />
 
@@ -3015,7 +3015,7 @@
 		<property name="offer_key" value="challenge_FightInTheShade_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="AnimalKill" id="SimonLeBon" value="1" />
+		<objective type="AnimalKill" id="SimonLeBon" value="20" />
 
 		<requirement type="Holding" id="SpearOfLeonidas" />
 
@@ -3035,7 +3035,7 @@
 		<property name="offer_key" value="challenge_LikeAPorcupine_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="AnimalKill" id="StelioKontos" value="1" />
+		<objective type="AnimalKill" id="StelioKontos" value="15" />
 
 		<requirement type="Holding" id="Needle" />
 
@@ -3055,7 +3055,7 @@
 		<property name="offer_key" value="challenge_MayTheOdds_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="SecondClassElitist" value="1" />
+		<objective type="ZombieKill" id="SecondClassElitist" value="25" />
 
 		<requirement type="Holding" id="OurLordAndSavior" />
 
@@ -3075,7 +3075,7 @@
 		<property name="offer_key" value="challenge_WeDontNeedNoWater_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="AverageJayne" value="1" />
+		<objective type="ZombieKill" id="AverageJayne" value="25" />
 
 		<requirement type="Holding" id="Hellfire" />
 
@@ -3095,7 +3095,7 @@
 		<property name="offer_key" value="challenge_BirdOfPrey_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="QBUnoDrogadicto" value="1" />
+		<objective type="ZombieKill" id="QBUnoDrogadicto" value="15" />
 
 		<requirement type="Holding" id="Falcon2" />
 
@@ -3115,7 +3115,7 @@
 		<property name="offer_key" value="challenge_BestPrayImDead_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="iLuvatar" value="1" />
+		<objective type="ZombieKill" id="iLuvatar" value="10" />
 
 		<requirement type="Holding" id="DixonCrossbow" />
 
@@ -3135,8 +3135,8 @@
 		<property name="offer_key" value="challenge_TheBirdsAndTheD_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="CarsonWentz" value="1" />
-		<objective type="ZombieKill" id="PwnHouseTV" value="1" />
+		<objective type="ZombieKill" id="CarsonWentz" value="20" />
+		<objective type="ZombieKill" id="PwnHouseTV" value="20" />
 
 		<requirement type="Holding" id="RCP120" />
 
@@ -3156,7 +3156,7 @@
 		<property name="offer_key" value="challenge_ComeComeMrBond_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="MidnightDesigner" value="1" />
+		<objective type="ZombieKill" id="MidnightDesigner" value="35" />
 
 		<requirement type="Holding" id="GoldenGun" />
 
@@ -3178,7 +3178,7 @@
 		<property name="offer_key" value="challenge_ItMustBeTheHair_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="BGGMatt" value="1" />
+		<objective type="ZombieKill" id="BGGMatt" value="15" />
 
 		<requirement type="Holding" id="Mjolnir" />
 
@@ -3198,7 +3198,7 @@
 		<property name="offer_key" value="challenge_EenyMeenyMineyMoe_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="Pokketninja" value="1" />
+		<objective type="ZombieKill" id="Pokketninja" value="25" />
 
 		<requirement type="Holding" id="Lucille" />
 
@@ -3218,7 +3218,7 @@
 		<property name="offer_key" value="challenge_HeKnowsNothing_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="Madmole" value="1" />
+		<objective type="ZombieKill" id="Madmole" value="25" />
 
 		<requirement type="Holding" id="Longclaw" />
 
@@ -3238,7 +3238,7 @@
 		<property name="offer_key" value="challenge_SwedishCowboy_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="Jonahbirch" value="1" />
+		<objective type="ZombieKill" id="Jonahbirch" value="30" />
 
 		<requirement type="Holding" id="DY357LX" />
 
@@ -3259,7 +3259,7 @@
 		<property name="offer_key" value="challenge_PartyBus_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="BuckNurse" value="1" />
+		<objective type="ZombieKill" id="BuckNurse" value="15" />
 
 		<requirement type="Holding" id="Phoenix" />
 
@@ -3279,7 +3279,7 @@
 		<property name="offer_key" value="challenge_TargetLocator_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="ShadeTheSin" value="1" />
+		<objective type="ZombieKill" id="ShadeTheSin" value="15" />
 
 		<requirement type="Holding" id="FarsightXR20" />
 
@@ -3299,8 +3299,8 @@
 		<property name="offer_key" value="challenge_NameDropper_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="BLSBerserker" value="1" />
-		<objective type="ZombieKill" id="StillYackin" value="1" />
+		<objective type="ZombieKill" id="BLSBerserker" value="15" />
+		<objective type="ZombieKill" id="StillYackin" value="25" />
 
 		<requirement type="Holding" id="Nukem" />
 
@@ -3320,7 +3320,7 @@
 		<property name="offer_key" value="challenge_BeastOfManyForms_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="BeetleBombTV" value="1" />
+		<objective type="ZombieKill" id="BeetleBombTV" value="20" />
 
 		<requirement type="Holding" id="Chimera" />
 
@@ -3340,7 +3340,7 @@
 		<property name="offer_key" value="challenge_IDKFA_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="KumquatTV" value="1" />
+		<objective type="ZombieKill" id="KumquatTV" value="40" />
 
 		<requirement type="Holding" id="DOOMChaingun" />
 
@@ -3360,7 +3360,7 @@
 		<property name="offer_key" value="challenge_IDDQD_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="FubarPrime" value="1" />
+		<objective type="ZombieKill" id="FubarPrime" value="20" />
 
 		<requirement type="Holding" id="DOOMChainsaw" />
 
@@ -3380,7 +3380,7 @@
 		<property name="offer_key" value="challenge_HotBlooded_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="MsAmyAly" value="1" />
+		<objective type="ZombieKill" id="MsAmyAly" value="15" />
 
 		<requirement type="Holding" id="Volcano" />
 
@@ -3400,7 +3400,7 @@
 		<property name="offer_key" value="challenge_StarStruck_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="Pikalyn" value="1" />
+		<objective type="ZombieKill" id="Pikalyn" value="15" />
 
 		<requirement type="Holding" id="Orion" />
 
@@ -3420,7 +3420,7 @@
 		<property name="offer_key" value="challenge_LetDemonDogsLie_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="GaryElDiablo" value="1" />
+		<objective type="ZombieKill" id="GaryElDiablo" value="25" />
 
 		<requirement type="Holding" id="LaptopGun" />
 
@@ -3440,7 +3440,7 @@
 		<property name="offer_key" value="challenge_BigFreakinGal_offer" />
 		<property name="difficulty" value="hard" />
 
-		<objective type="ZombieKill" id="BGGJoe" value="1" />
+		<objective type="ZombieKill" id="BGGJoe" value="15" />
 
 		<requirement type="Holding" id="BFG" />
 

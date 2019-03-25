@@ -1289,6 +1289,13 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceAnimalFat" count="1"/>
 </recipe>
 
+<recipe name="BeefStroganoff" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable">
+	<ingredient name="foodCanBeef" count="5"/>
+	<ingredient name="foodCropMushrooms" count="5"/>
+	<ingredient name="FriedOnions" count="2"/>
+	<ingredient name="foodCanPasta" count="5"/>
+</recipe>
+
 <recipe name="CodeRed" count="1" craft_area="chemistryStation" tags="learnable">
 	<ingredient name="resourcePotassiumNitratePowder" count="30"/>
 	<ingredient name="drinkJarEmpty" count="1"/>
@@ -1327,6 +1334,16 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 
 <recipe name="ShortStackRibs" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="learnable">
 	<ingredient name="MarinatedRawMeat" count="3"/>
+</recipe>
+
+<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="learnable">
+	<ingredient name="foodCanBeef" count="4"/>
+	<ingredient name="foodCornMeal" count="8"/>
+</recipe>
+
+<recipe name="SloppyJoe" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="learnable">
+	<ingredient name="foodCanLamb" count="4"/>
+	<ingredient name="foodCornMeal" count="8"/>
 </recipe>
 
 <recipe name="SpaghettiAndMeatballs" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable">

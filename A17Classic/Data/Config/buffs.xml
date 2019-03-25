@@ -268,43 +268,43 @@ List of hacks to be removed:
 			<!-- Weather Survival HOT -->
 			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffElementHot">
 				<requirement name="NotHasBuff" buff="god"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="20"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="68"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="70"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementHot">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="20"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="68"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementHot">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="70"/>
 			</triggered_effect>
 
 			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffElementSweltering">
 				<requirement name="NotHasBuff" buff="god"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="78"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementSweltering">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="80"/>
 			</triggered_effect>
 
 			<!-- Weather Survival COLD -->
 			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffElementCold">
 				<requirement name="NotHasBuff" buff="god"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="-40"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="-20"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="-70"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LT" value="-68"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementCold">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="-20"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GTE" value="-68"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementCold">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="-40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="-70"/>
 			</triggered_effect>
 
 			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" target="self" buff="buffElementFreezing">
 				<requirement name="NotHasBuff" buff="god"/>
-				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="-40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="LTE" value="-78"/>
 			</triggered_effect>
 			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" target="self" buff="buffElementFreezing">
-				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="-40"/>
+				<requirement name="CVarCompare" cvar="_coretemp" operation="GT" value="-80"/>
 			</triggered_effect>
 
 			<!-- Weather Survival WETNESS -->
