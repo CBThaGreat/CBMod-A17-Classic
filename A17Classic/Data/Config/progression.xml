@@ -496,8 +496,8 @@
 
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="ranged"/>
-			<passive_effect name="DamageModifier" operation="perc_add" value="0.5,1.5" level="1,5" tags="head"/>
-			<passive_effect name="DismemberChance" operation="base_add" value="0.10,0.25" level="3,5" tags="head"/>
+			<passive_effect name="DamageModifier" operation="perc_add" value="0.15,1.0" level="1,5" tags="head"/>
+			<passive_effect name="DismemberChance" operation="base_add" value="0.10,0.20" level="3,5" tags="head"/>
 			<effect_description level="1" desc_key="perkHeadshotRank1Desc"/>
 			<effect_description level="2" desc_key="perkHeadshotRank2Desc"/>
 			<effect_description level="3" desc_key="perkHeadshotRank3Desc"/>
@@ -855,8 +855,8 @@
 
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="melee"/>
-			<passive_effect name="DamageModifier" operation="perc_add" value="0.5,1.5" level="1,5" tags="head"/>
-			<passive_effect name="DismemberChance" operation="base_add" value="0.05,0.25" level="3,5" tags="head"/>
+			<passive_effect name="DamageModifier" operation="perc_add" value="0.15,1.0" level="1,5" tags="head"/>
+			<passive_effect name="DismemberChance" operation="base_add" value="0.05,0.15" level="3,5" tags="head"/>
 			<effect_description level="1" desc_key="perkSkullCrusherRank1Desc"/>
 			<effect_description level="2" desc_key="perkSkullCrusherRank2Desc"/>
 			<effect_description level="3" desc_key="perkSkullCrusherRank3Desc"/>
@@ -1546,7 +1546,7 @@
 				tags="thrownDynamite,ammo9mmBulletSteel,ammo44MagnumBulletSteel,ammo762mmBulletFMJSteel,ammoShotgunSlug,ammoArrowSteelAP,ammoCrossbowBoltSteelAP,ammoArrowFlaming,mineAirFilter,rScrapIronPlateMine,resourceMilitaryFiber,modMeleeBunkerBuster"/>
 			<!-- Tier 2 Weapon mods -->
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="2,5"
-				tags="modMeleeClubBurningShaft,modGunSoundSuppressorSilencer,modGunBarrelExtender,modGunLaserSight,modGunScopeMedium,modGunReflexSight,modGunTriggerGroupBurst,modGunRetractingStock,modGunCrippleEm,modMeleeTemperedBlade,modMeleeFortifyingGrip,modMeleeClubBarbedWire,modGunBowArrowRest"/>
+				tags="modMeleeClubBurningShaft,resourceFishingWeight,EmptyMold,WeaponMold,modGunSoundSuppressorSilencer,modGunBarrelExtender,modGunLaserSight,modGunScopeMedium,modGunReflexSight,modGunTriggerGroupBurst,modGunRetractingStock,modGunCrippleEm,modMeleeTemperedBlade,modMeleeFortifyingGrip,modMeleeClubBarbedWire,modGunBowArrowRest"/>
 			<!-- Tier 2 Armor mods -->
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="2,5"
 				tags="modArmorPlasticPlating,modArmorIronPlating,modArmorSpikedKnuckles,modArmorCustomizedFittings,modArmorDoubleStoragePocket,modArmorMuffledConnectors,modArmorImpactBracing,modArmorWaterPurifier"/>

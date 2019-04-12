@@ -3971,6 +3971,16 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceForgedSteel" count="10"/>
 </recipe>
 
+<recipe name="EmptyMold" count="1" tags="learnable" craft_area="forge" craft_tool="toolAndDieSet">
+	<ingredient name="unit_glass" count="100"/>
+	<ingredient name="unit_clay" count="150"/>
+</recipe>
+
+<recipe name="WeaponMold" count="1" tags="learnable" craft_area="workbench">
+	<ingredient name="EmptyMold" count="1"/>
+	<ingredient name="resourceForgedSteel" count="10"/>
+</recipe>
+
 <recipe name="BarrysWrath" count="1" tags="learnable" craft_area="workbench">
 	<ingredient name="BarrysWrathMold" count="1"/>
 	<ingredient name="resourceLeather" count="1000"/>
