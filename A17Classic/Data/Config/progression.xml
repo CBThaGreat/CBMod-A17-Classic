@@ -273,7 +273,7 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkShotgunMessiah" parent="skillMarksmanship" name_key="perkShotgunMessiahName" desc_key="perkShotgunMessiahDesc" icon="ui_game_symbol_shotgun" cost_multiplier_per_level="1.4">
+	<perk name="perkShotgunMessiah" parent="skillMarksmanship" name_key="perkShotgunMessiahName" desc_key="perkShotgunMessiahDesc" icon="ui_game_symbol_shotgun">
 		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/></level_requirements>
 								<requirement name="PlayerLevel" operation="GTE" value="15" desc_key="reqAttributeLevelDummy"/></level_requirements>
 		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/></level_requirements>
