@@ -2029,12 +2029,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="5"/>
 </recipe>
 
+<recipe name="modArmorAdvancedMuffledConnectorsSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorAdvancedMuffledConnectorsSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorBandolier" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorBandolierSchematic" count="1"/>
 	<ingredient name="resourceLeather" count="15"/>
 	<ingredient name="resourceGlue" count="3"/>
 	<ingredient name="resourceScrapPolymers" count="2"/>
 	<ingredient name="resourceCloth" count="10"/>
+</recipe>
+
+<recipe name="modArmorBandolierSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorBandolierSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorCoolingMesh" count="1" craft_area="workbench" tags="learnable">
@@ -2045,12 +2055,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceOil" count="2"/>
 </recipe>
 
+<recipe name="modArmorCoolingMeshSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorCoolingMeshSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorCustomizedFittings" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorCustomizedFittingsSchematic" count="1"/>
 	<ingredient name="resourceLeather" count="8"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="20"/>
 	<ingredient name="resourceMechanicalParts" count="8"/>
+</recipe>
+
+<recipe name="modArmorCustomizedFittingsSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorCustomizedFittingsSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorDoubleStoragePocket" count="1" craft_area="workbench" tags="learnable">
@@ -2061,12 +2081,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="4"/>
 </recipe>
 
+<recipe name="modArmorDoubleStoragePocketSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorDoubleStoragePocketSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorHelmetLight" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorHelmetLightSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="2"/>
 	<ingredient name="resourceHeadlight" count="1"/>
+</recipe>
+
+<recipe name="modArmorHelmetLightSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorHelmetLightSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorImpactBracing" count="1" craft_area="workbench" tags="learnable">
@@ -2077,6 +2107,11 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="20"/>
 </recipe>
 
+<recipe name="modArmorImpactBracingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorImpactBracingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorImprovedFittings" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorImprovedFittingsSchematic" count="1"/>
 	<ingredient name="resourceLeather" count="4"/>
@@ -2085,11 +2120,21 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="4"/>
 </recipe>
 
+<recipe name="modArmorImprovedFittingsSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorImprovedFittingsSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorInsulatedLiner" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorInsulatedLinerSchematic" count="1"/>
 	<ingredient name="resourceCloth" count="10"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="2"/>
+</recipe>
+
+<recipe name="modArmorInsulatedLinerSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorInsulatedLinerSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorIronPlating" count="1" craft_area="workbench" tags="learnable">
@@ -2100,12 +2145,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="2"/>
 </recipe>
 
+<recipe name="modArmorIronPlatingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorIronPlatingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorMilitaryPlating" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorMilitaryPlatingSchematic" count="1"/>
 	<ingredient name="resourceMilitaryFiber" count="10"/>
 	<ingredient name="resourceDuctTape" count="3"/>
 	<ingredient name="resourceScrapPolymers" count="3"/>
 	<ingredient name="resourceMechanicalParts" count="3"/>
+</recipe>
+
+<recipe name="modArmorMilitaryPlatingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorMilitaryPlatingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorMuffledConnectors" count="1" craft_area="workbench" tags="learnable">
@@ -2116,12 +2171,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="4"/>
 </recipe>
 
+<recipe name="modArmorMuffledConnectorsSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorMuffledConnectorsSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorPlasticPlating" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorPlasticPlatingSchematic" count="1"/>
 	<ingredient name="resourceScrapPolymers" count="10"/>
 	<ingredient name="resourceOil" count="2"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceMechanicalParts" count="2"/>
+</recipe>
+
+<recipe name="modArmorPlasticPlatingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorPlasticPlatingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorReinforcedPadding" count="1" craft_area="workbench" tags="learnable">
@@ -2132,12 +2197,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="1"/>
 </recipe>
 
+<recipe name="modArmorReinforcedPaddingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorReinforcedPaddingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorScrapPlating" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorScrapPlatingSchematic" count="1"/>
 	<ingredient name="resourceScrapIron" count="10"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="2"/>
 	<ingredient name="resourceMechanicalParts" count="2"/>
+</recipe>
+
+<recipe name="modArmorScrapPlatingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorScrapPlatingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorSpikedKnuckles" count="1" craft_area="workbench" tags="learnable">
@@ -2148,12 +2223,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="3"/>
 </recipe>
 
+<recipe name="modArmorSpikedKnucklesSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorSpikedKnucklesSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorSteelPlating" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorSteelPlatingSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="10"/>
 	<ingredient name="resourceDuctTape" count="3"/>
 	<ingredient name="resourceScrapPolymers" count="3"/>
 	<ingredient name="resourceMechanicalParts" count="3"/>
+</recipe>
+
+<recipe name="modArmorSteelPlatingSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorSteelPlatingSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modArmorStoragePocket" count="1" craft_area="workbench" tags="learnable">
@@ -2164,6 +2249,11 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="4"/>
 </recipe>
 
+<recipe name="modArmorStoragePocketSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorStoragePocketSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorTripleStoragePocket" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorTripleStoragePocketSchematic" count="1"/>
 	<ingredient name="resourceLeather" count="10"/>
@@ -2172,12 +2262,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceMechanicalParts" count="4"/>
 </recipe>
 
+<recipe name="modArmorTripleStoragePocketSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorTripleStoragePocketSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modArmorWaterPurifier" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modArmorWaterPurifierSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceDuctTape" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="10"/>
 	<ingredient name="resourceCoal" count="30"/>
+</recipe>
+
+<recipe name="modArmorWaterPurifierSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modArmorWaterPurifierSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <!--<recipe name="modGunMeleeBlessedMetal" count="1" craft_area="workbench" tags="learnable">
@@ -2204,12 +2304,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceScrapPolymers" count="5"/>
 </recipe>
 
+<recipe name="modGunBarrelExtenderSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunBarrelExtenderSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunBipod" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunBipodSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunBipodSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunBipodSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunBowArrowRest" count="1" craft_area="workbench" tags="learnable">
@@ -2220,12 +2330,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunBowArrowRestSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunBowArrowRestSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunBowPolymerString" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunBowPolymerStringSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunBowPolymerStringSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunBowPolymerStringSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunChoke" count="1" craft_area="workbench" tags="learnable">
@@ -2236,12 +2356,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunChokeSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunChokeSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunCrippleEm" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunCrippleEmSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunCrippleEmSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunCrippleEmSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunDuckbill" count="1" craft_area="workbench" tags="learnable">
@@ -2252,12 +2382,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunDuckbillSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunDuckbillSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunFlashlight" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunFlashlightSchematic" count="1"/>
 	<ingredient name="resourceScrapPolymers" count="10"/>
 	<ingredient name="resourceGlue" count="2"/>
 	<ingredient name="resourceHeadlight" count="1"/>
 	<ingredient name="resourceElectricParts" count="5"/>
+</recipe>
+
+<recipe name="modGunFlashlightSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunFlashlightSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunForegrip" count="1" craft_area="workbench" tags="learnable">
@@ -2268,12 +2408,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunForegripSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunForegripSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunLaserSight" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunLaserSightSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="10"/>
 	<ingredient name="resourceGlue" count="2"/>
 	<ingredient name="resourceMechanicalParts" count="2"/>
 	<ingredient name="resourceElectricParts" count="10"/>
+</recipe>
+
+<recipe name="modGunLaserSightSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunLaserSightSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunMagazineExtender" count="1" craft_area="workbench" tags="learnable">
@@ -2284,12 +2434,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunMagazineExtenderSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunMagazineExtenderSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunMeleeRadRemover" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunMeleeRadRemoverSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunMeleeRadRemoverSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunMeleeRadRemoverSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunMeleeTheHunter" count="1" craft_area="workbench" tags="learnable">
@@ -2300,12 +2460,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunMeleeTheHunterSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunMeleeTheHunterSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunMuzzleBrake" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunMuzzleBrakeSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="10"/>
 	<ingredient name="resourceOil" count="2"/>
 	<ingredient name="resourceMechanicalParts" count="2"/>
 	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunMuzzleBrakeSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunMuzzleBrakeSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunReflexSight" count="1" craft_area="workbench" tags="learnable">
@@ -2316,12 +2486,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceScrapPolymers" count="10"/>
 </recipe>
 
+<recipe name="modGunReflexSightSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunReflexSightSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunRetractingStock" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunRetractingStockSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunRetractingStockSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunRetractingStockSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunRodAndSpring" count="1" craft_area="workbench" tags="learnable">
@@ -2332,12 +2512,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modGunRodAndSpringSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunRodAndSpringSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunScopeLarge" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunScopeLargeSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="10"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceBrokenGlass" count="20"/>
 	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="modGunScopeLargeSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunScopeLargeSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunScopeMedium" count="1" craft_area="workbench" tags="learnable">
@@ -2348,12 +2538,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceScrapPolymers" count="8"/>
 </recipe>
 
+<recipe name="modGunScopeMediumSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunScopeMediumSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunScopeSmall" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunScopeSmallSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="10"/>
 	<ingredient name="resourceGlue" count="2"/>
 	<ingredient name="resourceBrokenGlass" count="10"/>
 	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunScopeSmallSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunScopeSmallSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunSoundSuppressorSilencer" count="1" craft_area="workbench" tags="learnable">
@@ -2364,12 +2564,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceScrapPolymers" count="5"/>
 </recipe>
 
+<recipe name="modGunSoundSuppressorSilencerSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunSoundSuppressorSilencerSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunTriggerGroupAutomatic" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunTriggerGroupAutomaticSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="10"/>
 	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunTriggerGroupAutomaticSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunTriggerGroupAutomaticSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modGunTriggerGroupBurst" count="1" craft_area="workbench" tags="learnable">
@@ -2380,12 +2590,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceScrapPolymers" count="5"/>
 </recipe>
 
+<recipe name="modGunTriggerGroupBurstSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunTriggerGroupBurstSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modGunTriggerGroupSemi" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modGunTriggerGroupSemiSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="10"/>
 	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunTriggerGroupSemiSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modGunTriggerGroupSemiSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeBunkerBuster" count="1" craft_area="workbench" tags="learnable">
@@ -2396,6 +2616,11 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeBunkerBusterSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeBunkerBusterSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeClubBarbedWire" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeClubBarbedWireSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
@@ -2404,11 +2629,21 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeClubBarbedWireSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeClubBarbedWireSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeClubBurningShaft" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeClubBurningShaftSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="meleeToolTorch" count="1"/>
+</recipe>
+
+<recipe name="modMeleeClubBurningShaftSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeClubBurningShaftSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeClubMetalSpikes" count="1" craft_area="workbench" tags="learnable">
@@ -2419,12 +2654,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeClubMetalSpikesSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeClubMetalSpikesSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeErgonomicGrip" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeErgonomicGripSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeErgonomicGripSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeErgonomicGripSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeFortifyingGrip" count="1" craft_area="workbench" tags="learnable">
@@ -2435,12 +2680,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeFortifyingGripSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeFortifyingGripSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeGraveDigger" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeGraveDiggerSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeGraveDiggerSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeGraveDiggerSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeIronBreaker" count="1" craft_area="workbench" tags="learnable">
@@ -2451,12 +2706,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeIronBreakerSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeIronBreakerSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeSerratedBlade" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeSerratedBladeSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeSerratedBladeSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeSerratedBladeSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeStructuralBrace" count="1" craft_area="workbench" tags="learnable">
@@ -2467,12 +2732,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeStructuralBraceSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeStructuralBraceSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeTemperedBlade" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeTemperedBladeSchematic" count="1"/>
 	<ingredient name="resourceForgedSteel" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeTemperedBladeSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeTemperedBladeSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="modMeleeWeightedHead" count="1" craft_area="workbench" tags="learnable">
@@ -2483,6 +2758,11 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeWeightedHeadSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeWeightedHeadSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modMeleeWoodSplitter" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modMeleeWoodSplitterSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
@@ -2491,12 +2771,22 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="resourceSpring" count="10"/>
 </recipe>
 
+<recipe name="modMeleeWoodSplitterSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modMeleeWoodSplitterSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
+</recipe>
+
 <recipe name="modShotgunSawedOffBarrel" count="1" craft_area="workbench" tags="learnable">
 	<ingredient name="modShotgunSawedOffBarrelSchematic" count="1"/>
 	<ingredient name="resourceForgedIron" count="5"/>
 	<ingredient name="resourceGlue" count="5"/>
 	<ingredient name="resourceMechanicalParts" count="5"/>
 	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modShotgunSawedOffBarrelSchematic" count="3" craft_area="workbench" tags="learnable">
+	<ingredient name="modShotgunSawedOffBarrelSchematic" count="1"/>
+	<ingredient name="resourcePaper" count="30"/>
 </recipe>
 
 <recipe name="motionsensor" count="1" craft_area="workbench" tags="learnable">
@@ -3628,6 +3918,7 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 
 <recipe name="window03Wood" count="1">
 	<ingredient name="resourceWood" count="4"/>
+	<ingredient name="glassCTRSheet" count="1"/>
 </recipe>
 
 <recipe name="woodArrowBlock" count="1" craft_area="tablesaw">
