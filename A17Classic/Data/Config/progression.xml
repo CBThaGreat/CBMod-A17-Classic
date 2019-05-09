@@ -273,16 +273,16 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkShotgunMessiah" parent="skillMarksmanship" name_key="perkShotgunMessiahName" desc_key="perkShotgunMessiahDesc" icon="ui_game_symbol_shotgun">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/></level_requirements>
+	<perk name="perkShotgunMessiah" parent="skillMarksmanship" name_key="perkShotgunMessiahName" desc_key="perkShotgunMessiahDesc" cost_multiplier_per_level="1.4" icon="ui_game_symbol_shotgun">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/>
 								<requirement name="PlayerLevel" operation="GTE" value="15" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/>
 								<requirement name="PlayerLevel" operation="GTE" value="30" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/>
 								<requirement name="PlayerLevel" operation="GTE" value="50" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/>
 								<requirement name="PlayerLevel" operation="GTE" value="75" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
 
 		<effect_group>
@@ -469,16 +469,16 @@
 		</effect_group>
 
 	</perk>
-	<perk name="perkExplosiveWeapons" parent="skillMarksmanship" name_key="perkExplosiveWeaponsName" cost_multiplier_per_level="1.4 desc_key="perkExplosiveWeaponsDesc" icon="ui_game_symbol_explosion">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/></level_requirements>
+	<perk name="perkExplosiveWeapons" parent="skillMarksmanship" name_key="perkExplosiveWeaponsName" cost_multiplier_per_level="1.4" desc_key="perkExplosiveWeaponsDesc" icon="ui_game_symbol_explosion">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/>
 								<requirement name="PlayerLevel" operation="GTE" value="15" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/>
 								<requirement name="PlayerLevel" operation="GTE" value="30" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/>
 								<requirement name="PlayerLevel" operation="GTE" value="50" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/>
 								<requirement name="PlayerLevel" operation="GTE" value="75" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
 
 		<effect_group>
@@ -499,16 +499,16 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkHeadshot" parent="skillMarksmanship" name_key="perkHeadshotName" desc_key="perkHeadshotDesc" cost_multiplier_per_level="1.4 icon="ui_game_symbol_head_shot">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/></level_requirements>
+	<perk name="perkHeadshot" parent="skillMarksmanship" name_key="perkHeadshotName" desc_key="perkHeadshotDesc" cost_multiplier_per_level="1.4" icon="ui_game_symbol_head_shot">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="1" desc_key="reqPerceptionLevel01-15"/>
 								<requirement name="PlayerLevel" operation="GTE" value="15" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="3" desc_key="reqPerceptionLevel03-30"/>
 								<requirement name="PlayerLevel" operation="GTE" value="30" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="5" desc_key="reqPerceptionLevel05-50"/>
 								<requirement name="PlayerLevel" operation="GTE" value="50" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="7" desc_key="reqPerceptionLevel07-75"/>
 								<requirement name="PlayerLevel" operation="GTE" value="75" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attPerception" operation="GTE" value="10" desc_key="reqPerceptionLevel10-100"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
 
 		<effect_group>
@@ -634,16 +634,16 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkDeepCuts" parent="skillMeleeCombat" name_key="perkDeepCutsName" desc_key="perkDeepCutsDesc" cost_multiplier_per_level="1.4 icon="ui_game_symbol_deep_cuts">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="1" desc_key="reqStrengthLevel01-15"/></level_requirements>
+	<perk name="perkDeepCuts" parent="skillMeleeCombat" name_key="perkDeepCutsName" desc_key="perkDeepCutsDesc" cost_multiplier_per_level="1.4" icon="ui_game_symbol_deep_cuts">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="1" desc_key="reqStrengthLevel01-15"/>
 								<requirement name="PlayerLevel" operation="GTE" value="15" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="3" desc_key="reqStrengthLevel03-30"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="3" desc_key="reqStrengthLevel03-30"/>
 								<requirement name="PlayerLevel" operation="GTE" value="30" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05-50"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05-50"/>
 								<requirement name="PlayerLevel" operation="GTE" value="50" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07-75"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07-75"/>
 								<requirement name="PlayerLevel" operation="GTE" value="75" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10-100"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10-100"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
 
 		<effect_group>
@@ -869,16 +869,16 @@
 		</effect_group>
 	</perk>
 
-	<perk name="perkSkullCrusher" parent="skillMeleeCombat" name_key="perkSkullCrusher" desc_key="perkSkullCrusherDesc" cost_multiplier_per_level="1.4 icon="ui_game_symbol_skull_crusher">
-		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="1" desc_key="reqStrengthLevel01-15"/></level_requirements>
+	<perk name="perkSkullCrusher" parent="skillMeleeCombat" name_key="perkSkullCrusher" desc_key="perkSkullCrusherDesc" cost_multiplier_per_level="1.4" icon="ui_game_symbol_skull_crusher">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="1" desc_key="reqStrengthLevel01-15"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="3" desc_key="reqStrengthLevel03-30"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="3" desc_key="reqStrengthLevel03-30"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05-50"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="5" desc_key="reqStrengthLevel05-50"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07-75"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="7" desc_key="reqStrengthLevel07-75"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
-		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10-100"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attStrength" operation="GTE" value="10" desc_key="reqStrengthLevel10-100"/>
 								<requirement name="PlayerLevel" operation="GTE" value="100" desc_key="reqAttributeLevelDummy"/></level_requirements>
 
 		<effect_group>
